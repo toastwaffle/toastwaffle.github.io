@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/samuellittley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://samuellittley.me
+  * I am samuellittley (https://keybase.io/samuellittley) on keybase.
+  * I have a public key with fingerprint B21B 41DF 8986 8A11 E589  76AF 01FF F529 EEAB 0975
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b21b41df89868a11e58976af01fff529eeab0975",
+            "host": "keybase.io",
+            "key_id": "01fff529eeab0975",
+            "kid": "0101d015cc1ef3ad893916f12918038c172081cc7eec33a9f7b5eba852a3685d80980a",
+            "uid": "649ef3636da7f74711e9152c10cadc00",
+            "username": "samuellittley"
+        },
+        "service": {
+            "hostname": "samuellittley.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1421272734,
+    "expire_in": 157680000,
+    "prev": "25721ee3daf3b2ee8446eca1b9c7bc5ec9e567d76ea991eeb71b15ab260cb939",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMIcAnicbZJdSBRRFMfXzDJJEMTUCs0pkmCTufM9S/RpCgZFZNpDtN175846uu2s
+s7ObJhbSpxqplPUQCr0oZIluERLSh5kIEoIfkFLZB/kQIWil0IN2R+zN+3K55/zO
+/57/4fQnxroSYmKW/uya6dgQjhl6XRB2FT6bbq1ikKlVMp4qpowsX7oR8BEraBkB
+m/EwiANIAJquqIqkQACIqKiyBHUW6LouciohELGqLDJupsQMORVUBsEQyTFMGqMP
+r6HR6Cp82UqCBRoLRIwB0XmoKSqvAkkHnAoUllcwkDlWARjLhGCeh6ouI5EgqIgc
+5CVF1BRWVVhI5cLLcpKgUhmJlzQo67Ig045VIHIYsBhqmGUdMESsADxHKB2C58LE
+7zds20/NV7sZmooYmDhzcOyshuXQkJsJWqZtYtNPsyW2HfQ4xXZl0KHPE+Rd0fEi
+I6DRedKCCLFChhlgPICS2DYcYSBwgJM5mRfcDKkIGhbxGg4hypLC0uN8QyJUkhNl
+DhDCa1DnEUeIIggSwRAgFcsIiwSrRJRkTZYIVFUKIhkgIELESSxGdKCM46w8YDIe
+TqJ9Qp9jyvAFoB22CFPd9+r0WldMgmtd3BpnJVwJG5L+L0pl4volf8Rvtw5cGH76
+PD3a99M9UHJjntTfGxp70lkzPHsyeHlx6lBkJqP4VsOLLdM1L39uHs0wp0rTMudS
+CvP5Nzv5fQX9obddFXrale9MbXLTeyl+KTX7aNOHHZes1MlLjfm1hzu3lqf22EZR
+24O70Zcz0SarvSna2pt7pHmybvpv6X53Swk78XDjwg/t+/iofcw4lTWX5Yt/lxQ8
+0Rkbl9l7sTVl26Nn3aemWrK/VF3PaxvZezurY7wnf3fd9tTEr3eEV9/Eq0V7Pmcf
+yDs/MezdX3ym8f6m+Zu/66MNVXPtI7+6Bo1pIbm742D51bHc2Uh687VElF/46XLB
+449nkyKLxxcG/wGjoDOT
+=AHJk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samuellittley
+
+==================================================================
