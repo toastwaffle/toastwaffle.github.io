@@ -97,6 +97,8 @@ References
 
 ## Theatre Experience
 
+ * _Passion_, Production Manager, Keble O'Reilly Theatre, May 2015
+ * _Jekyll & Hyde_, Production Electrics, Pembroke Pichette Auditorium, May 2015
  * _King Lear_, Production Manager, Keble O'Reilly Theatre, February 2015
  * _The Effect_, Production Manager, Keble O'Reilly Theatre, February 2015
  * _TEDx Oxford 2015_, Lighting Designer, New Theatre Oxford, January 2015
