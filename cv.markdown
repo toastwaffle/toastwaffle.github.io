@@ -112,7 +112,7 @@ References
  * _Lord of the Flies_, Lighting Designer, Keble O'Reilly Theatre, May 2014
  * _The History Boys_, Lighting Designer, Oxford Playhouse, April 2014
  * _New Writing Festival 2014_, Lighting Designer, Burton Taylor Studio, March 2014
- * _Sweeney Todd_, Production Electrics, Keble O'Reilly Studio, February 2014
+ * _Sweeney Todd_, Production Electrics, Keble O'Reilly Theatre, February 2014
  * _In Her Eyes_, Lighting Designer, Burton Taylor Studio, January 2014
  * _TEDx Oxford 2014_, Lighting Designer, New Theatre Oxford, January 2014
  * _100_, Lighting Designer, Burton Taylor Studio, November 2013
