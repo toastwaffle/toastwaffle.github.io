@@ -19,6 +19,7 @@ title: Curriculum Vitae
      - __AS__ - Maths, Further Maths, Physics, Computing, German (__A__)
      - __A2__ - Maths, Further Maths, Physics, Computing (__A\*__)
  * University of Oxford, Keble College (2012 - 2016)
+     - MCompSci Computer Science
      - Attained 1st Class in Preliminary and Part A examinations.
 
 ## Employment and Experience
