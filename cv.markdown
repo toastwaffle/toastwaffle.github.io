@@ -20,10 +20,12 @@ title: Curriculum Vitae
      - __A2__ - Maths, Further Maths, Physics, Computing (__A\*__)
  * University of Oxford, Keble College (2012 - 2016)
      - MCompSci Computer Science
-     - Attained 1st Class in Preliminary and Part A examinations.
+     - Attained 1st Class in Preliminary, Part A and Part B examinations.
 
 ## Employment and Experience
 
+ * Semmle Ltd (29th June - 2nd October 2015)
+     - Worked on a Sublime Text plugin integrating the company's core software analysis products with the text editor.
  * Google UK Ltd (6th July - 3rd October 2014)
      - Worked on a project automating analysis of historical production date to determine relationships between demand and resources used, to aid with future capacity planning.
      - Made extensive use of Python, using [pandas](http://pandas.pydata.org/) for data manipulation and statistical analysis
@@ -60,7 +62,7 @@ title: Curriculum Vitae
  * __Python__: Proficient
  * __HTML__: Proficient
  * __CSS__: Proficient
- * __PHP__: Intermediate
+ * __PHP__: Rusty
  * __JavaScript__: Basic
  * __C++__: Basic
  * __Java__: Basic
@@ -76,8 +78,7 @@ title: Curriculum Vitae
 ## Extracurricular
 
  * Member of the UK Scout Association since age 10
-     - Previously held roles as District Secretary, Assistant Scout Leader, and Young Leade (Beavers)
-     - Also a member of the East Lancashire County Scout Web Team, responsible for maintaining the county websites and IT provisions
+     - Previously held roles as District Secretary, Assistant Scout Leader, and Young Leader (Beavers)
  * Interested in photography
  * Plays drums
  * Active involvement with [Rewired State](http://www.rewiredstate.org/)
