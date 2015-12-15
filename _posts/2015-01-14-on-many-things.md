@@ -9,7 +9,7 @@ samuellittley.me is a free domain I obtained as part of the Github Student Devel
 
 ## On Jekyll, and Github pages...
 
-samuellittley.me is hosted on Github pages, which runs on Jekyll. Most of my content is written in Markdown, which Jekyll then builds into HTML pages. The them is Poole/Lanyon.
+samuellittley.me is hosted on Github pages, which runs on Jekyll. Most of my content is written in Markdown, which Jekyll then builds into HTML pages. The theme is Poole/Lanyon.
 
 ## On writing a CV...
 
