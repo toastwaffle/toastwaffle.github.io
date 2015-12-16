@@ -65,3 +65,78 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/samuellittley
 
 ==================================================================
+==================================================================
+https://keybase.io/samuellittley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://toastwaffle.com
+  * I am samuellittley (https://keybase.io/samuellittley) on keybase.
+  * I have a public key with fingerprint B21B 41DF 8986 8A11 E589  76AF 01FF F529 EEAB 0975
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d015cc1ef3ad893916f12918038c172081cc7eec33a9f7b5eba852a3685d80980a",
+            "fingerprint": "b21b41df89868a11e58976af01fff529eeab0975",
+            "host": "keybase.io",
+            "key_id": "01fff529eeab0975",
+            "kid": "0101d015cc1ef3ad893916f12918038c172081cc7eec33a9f7b5eba852a3685d80980a",
+            "uid": "649ef3636da7f74711e9152c10cadc00",
+            "username": "samuellittley"
+        },
+        "revoke": {
+            "sig_ids": [
+                "1128e8491ffe8f70f1d1387e22522ec1eab0d6c32d178b5ad8ea1ae6a20c41600f"
+            ]
+        },
+        "service": {
+            "hostname": "toastwaffle.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450261301,
+    "expire_in": 157680000,
+    "prev": "a7216ad44265c360b0f2182eb3bcedf18cd3b9028cccc937d22f3a8aa577f245",
+    "seqno": 30,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMJ4AnicrZJdbBVFFMdvtV6khETFpvUjSBbUAKXOx87s7IUEvxPExIdGCaHkdnbm
+TFnv7d3L7t5Crddg1TQmTf16MCQWTCN+1QfDN4SAEBOVRhM1sUGakKoE5aGkD0oC
+kjrb1CdfnZfJzPzP7/zPOfPl4ptzTQ0Ns3+unB5bWGsYP329lntu+1rW7wSR7nMK
+/U4J5jYoa0jSYinUTsFBGGGNMFMKg6FSC5/6mBtMfCwQFQp7BAmslAegKJW+8QIG
+gRSMSMoF0wL5AkmnzTFhpRviahxWUosNCA5crI3wBRcSY2DC97g0CBtjGPEBZIB8
+j9nAbVGSRVhzgUygPYzsnT0U5+39R/8/+67N4bjrWwynXEvPeK5nHfuYEYWRkloh
+lAkTiCuyB6w6kT01KJfDNC3bltbbnBh6oxJkzU3Cbus8cQpbHIyJAOH6tgQQxkMG
+a0yFB4QwQsD6tiVprijR2BMBszWAxBK4JEi5mCNknK2WbdP2hmoOnrVq3kIaySTd
+IY0pQ7uKeqy/ahylkYrK9nFbmlYLma+0r5qJd0BQnMcUg7Ci7ahsQC/ESRhVnAK2
+SpWGGRe7DBGOKcJtDuyshjEUw0zBPC6QXVka6LVI6RHMpXZdwpmiHAXIECwIBDRQ
+oA0WStPAR0Qou3zqaULsmISUzPMMcbNBJrC9EjkFaqGp7M7aGnZXZFqLwamf+aKz
+MdfQlMvfclP2h3NNC2/792ev/HrB9Tzd3fHJ0vX079n7w4n+d7taWq/8NLpvWdel
+yRWXjz525+WpfPHYsd9nXh7cVd/V6Dyzduwke3Tg9ElTP7Txnf0v/br49ic/XOLm
+j//WfOPHge+bR7977+POQzPT7Q9sXf3iV2PuspEDTw2VZf2Fc3B1cGhz5zV++NRE
+8xNXNz4dPLh6YlLd88hgi+gKx89fjH9+9tyJ+3K/PD8N8oMSCgoXl0x+uvTNDZ+N
+752cPb/lSudbZ/e39K0//PqUIGdGTq3ac+3I8Nv55Sd++Lz18RX1G2R03UevdHQ8
+xPZdWLeo62hpqvjG+yOvfXs33zR0x6K/Xj3IHl5z6x8DawYbc6RppvmbS61nh4cv
+7Lyr5d5/APxEXRs=
+=oFjY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samuellittley
+
+==================================================================
