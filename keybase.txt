@@ -140,3 +140,71 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/samuellittley
 
 ==================================================================
+==================================================================
+https://keybase.io/samuellittley
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://fivebit.co.uk
+  * I am samuellittley (https://keybase.io/samuellittley) on keybase.
+  * I have a public key with fingerprint B21B 41DF 8986 8A11 E589  76AF 01FF F529 EEAB 0975
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d015cc1ef3ad893916f12918038c172081cc7eec33a9f7b5eba852a3685d80980a",
+            "fingerprint": "b21b41df89868a11e58976af01fff529eeab0975",
+            "host": "keybase.io",
+            "key_id": "01fff529eeab0975",
+            "kid": "0101d015cc1ef3ad893916f12918038c172081cc7eec33a9f7b5eba852a3685d80980a",
+            "uid": "649ef3636da7f74711e9152c10cadc00",
+            "username": "samuellittley"
+        },
+        "service": {
+            "hostname": "fivebit.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450261429,
+    "expire_in": 157680000,
+    "prev": "6c3e914264183ddedd1a3e94661eb844b986ff157fcb4b62a94b11a4328ba0d6",
+    "seqno": 31,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIwAnicrVJdSBRRGN1VUzQN0xULDGRARBKdO/+ziRFkD2oUGlZirndm7ujkurPu
+zqyabWpCZQn9SIJa5kNP+VAKFtmvJvVgRv6k1YtR0UtWiAmapN0Re+q1+3K533fO
+ued8947EhNqi7Pa1xbTvvZGmfXToumkrqt41UE9IulJHOOuJSrS+IbeC/IarUlMI
+J0ECEigkYGUZIJWGiiDSIuBUQIlAIGlBBjxFCkCWeYRkmoaiyksskqDAUpDmBFYR
+SFEgIZFOqJqnHPm8Ps1jYFmJAhIDFFUQBU6AACBWEHkOqiRQVZWlRISgRIo8i4kV
+ut9iYHMS9KMMTcc1fHBt2PsH/599m+tyHCNiGY7mFMirPMNjxyJgKRmQMlRkkrSA
+fuTzwCqE0X5YZSK3WzMMNx5pMJ3ArYAmI2u6VpwNmKoFkKQZGbKeYVZiBa9PN3RZ
+d+NWhWF4nRbTqPNa0BokuTZEXJLmUfAwMSGAfH5N9xBOgJGyoVmqgGFJigMMJaYT
+qNar+ZBLsxAszwkkXtY1KGBFkmmcgaE4Bgi0oiBFARBXGI4DSBIYRsJPo6qYp8oS
+I3EUFBkJAMjQlCBBUuEIK1a1RyecNMA+YbkVXCv3QMP0ISI4/LQkzGaPsoVvCrF+
+mS0qMvbv38sPRqyVdlHLqVvONLel+tsDLsdMQ/z+kOXkxuVqb0LMr/GWsVmYG7Eb
+pbSb2Xq3drR4+FDv4ampsDlOiXsz3sLE8trv7OmDR6L3ROSNLziGLo1MN2b2lO37
+Zrws2b7SdOXi69WmeF9/Tv/ASsHkq7EDneFsbtzovb4Lj+xLcT9axYX7XQ4j6dzD
+s4PdUdkh9Y65wtLTT9IeLw+uzpdMzGf1bLuWU9uxEP3hQVvmz7Hj1aHFwfKZOU9h
+6tJiSrDm1LuspL6i93tvX2bNZ58XU5orrzqmypK9myeHvsy9OF/wNfFY/tZbH092
+TETU7bixeGcir7Nx56fWhruziWYMdeJmQtrbhud/AE01RK8=
+=QoYz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samuellittley
+
+==================================================================
