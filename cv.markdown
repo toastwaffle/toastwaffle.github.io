@@ -24,8 +24,12 @@ title: Curriculum Vitae
 
 ## Employment and Experience
 
+ * Google Ireland Ltd (18th July 2016 - )
+     - Starting as a Site Reliability Engineer (Software Engineer)
  * Semmle Ltd (29th June - 2nd October 2015)
-     - Worked on a Sublime Text plugin integrating the company's core software analysis products with the text editor.
+     - Worked on a Sublime Text plugin integrating the company's core software analysis products with the text editor, and a web based interface to the company's analysis querying platform.
+     - Made extensive use of Python for the Sublime Text plugin, using a single code base for both versions of Sublime Text (supporting Python 2.6 and 3.3)
+     - Used Java for the query web interface project.
  * Google UK Ltd (6th July - 3rd October 2014)
      - Worked on a project automating analysis of historical production date to determine relationships between demand and resources used, to aid with future capacity planning.
      - Made extensive use of Python, using [pandas](http://pandas.pydata.org/) for data manipulation and statistical analysis
@@ -62,7 +66,7 @@ title: Curriculum Vitae
  * __Python__: Proficient
  * __HTML__: Proficient
  * __CSS__: Proficient
- * __PHP__: Rusty
+ * __PHP__: Intermediate
  * __JavaScript__: Basic
  * __C++__: Basic
  * __Java__: Basic
@@ -78,7 +82,8 @@ title: Curriculum Vitae
 ## Extracurricular
 
  * Member of the UK Scout Association since age 10
-     - Previously held roles as District Secretary, Assistant Scout Leader, and Young Leader (Beavers)
+     - Previously held roles as District Secretary, Assistant Scout Leader, and Young Leade (Beavers)
+     - Also a member of the East Lancashire County Scout Web Team, responsible for maintaining the county websites and IT provisions
  * Interested in photography
  * Plays drums
  * Active involvement with [Rewired State](http://www.rewiredstate.org/)
@@ -99,8 +104,6 @@ References
 
 ## Theatre Experience
 
- * _Passion_, Production Manager, Keble O'Reilly Theatre, May 2015
- * _Jekyll & Hyde_, Production Electrics, Pembroke Pichette Auditorium, May 2015
  * _King Lear_, Production Manager, Keble O'Reilly Theatre, February 2015
  * _The Effect_, Production Manager, Keble O'Reilly Theatre, February 2015
  * _TEDx Oxford 2015_, Lighting Designer, New Theatre Oxford, January 2015
@@ -114,7 +117,7 @@ References
  * _Lord of the Flies_, Lighting Designer, Keble O'Reilly Theatre, May 2014
  * _The History Boys_, Lighting Designer, Oxford Playhouse, April 2014
  * _New Writing Festival 2014_, Lighting Designer, Burton Taylor Studio, March 2014
- * _Sweeney Todd_, Production Electrics, Keble O'Reilly Theatre, February 2014
+ * _Sweeney Todd_, Production Electrics, Keble O'Reilly Studio, February 2014
  * _In Her Eyes_, Lighting Designer, Burton Taylor Studio, January 2014
  * _TEDx Oxford 2014_, Lighting Designer, New Theatre Oxford, January 2014
  * _100_, Lighting Designer, Burton Taylor Studio, November 2013
