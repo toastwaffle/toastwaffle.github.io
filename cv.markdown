@@ -66,10 +66,9 @@ title: Curriculum Vitae
  * __Python__: Proficient
  * __HTML__: Proficient
  * __CSS__: Proficient
- * __PHP__: Intermediate
- * __JavaScript__: Basic
- * __C++__: Basic
- * __Java__: Basic
+ * __JavaScript__: Intermediate
+ * __C++__: Intermediate
+ * __Java__: Intermediate
 
 ## Other Skills
 
