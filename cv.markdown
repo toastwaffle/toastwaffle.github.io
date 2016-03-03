@@ -78,18 +78,6 @@ title: Curriculum Vitae
  * High analytical ability
  * Always willing and eager to learn
 
-## Extracurricular
-
- * Member of the UK Scout Association since age 10
-     - Previously held roles as District Secretary, Assistant Scout Leader, and Young Leade (Beavers)
-     - Also a member of the East Lancashire County Scout Web Team, responsible for maintaining the county websites and IT provisions
- * Interested in photography
- * Plays drums
- * Active involvement with [Rewired State](http://www.rewiredstate.org/)
-     - Have taken part in hack events with UK Parliament, UK Cabinet Office, and Refugees United
-     - Also taken part in more generic hacks such as National Hack the Government Day and Young Rewired State
- * Regular mentor at Oxford CoderDojo
-
 References
 
  * Stephen Cameron (University Tutor): stephen.cameron &lt;at&gt; keble.ox.ac.uk
@@ -97,12 +85,14 @@ References
  * Ben Taylor (Line Manager at Fatsoma Ltd): ben.taylor &lt;at&gt; fatsoma.com
  * Andrew Holford (Line Manager at Outdoor Action Ltd): andy &lt;at&gt; outdooraction.co.uk
 
-## Career Aspirations
-
- * Looking for a career in programming, using the latest technologies.
-
 ## Theatre Experience
 
+ * _TEDx Oxford 2016_, co-Technical Director/Deputy Stage Manager, New Theatre Oxford, February 2016
+ * _The Three Musketeers_, Production Manager, Keble O'Reilly Theatre, November 2015
+ * _Hamlet_, Production Manager, Keble O'Reilly Theatre, November 2015
+ * _Singin' In The Rain_, Production Electrician, October 2015
+ * _Passion_, Production Manager, Keble O'Reilly Theatre, May 2015
+ * _Jekyll & Hyde_, Production Electrics, Pembroke Pichette Auditorium, May 2015
  * _King Lear_, Production Manager, Keble O'Reilly Theatre, February 2015
  * _The Effect_, Production Manager, Keble O'Reilly Theatre, February 2015
  * _TEDx Oxford 2015_, Lighting Designer, New Theatre Oxford, January 2015
@@ -116,7 +106,7 @@ References
  * _Lord of the Flies_, Lighting Designer, Keble O'Reilly Theatre, May 2014
  * _The History Boys_, Lighting Designer, Oxford Playhouse, April 2014
  * _New Writing Festival 2014_, Lighting Designer, Burton Taylor Studio, March 2014
- * _Sweeney Todd_, Production Electrics, Keble O'Reilly Studio, February 2014
+ * _Sweeney Todd_, Production Electrics, Keble O'Reilly Theatre, February 2014
  * _In Her Eyes_, Lighting Designer, Burton Taylor Studio, January 2014
  * _TEDx Oxford 2014_, Lighting Designer, New Theatre Oxford, January 2014
  * _100_, Lighting Designer, Burton Taylor Studio, November 2013
