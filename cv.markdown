@@ -12,15 +12,13 @@ title: Curriculum Vitae
 
 ## Education and Qualifications
 
- * Read St John's C of E Primary School (1998 - 2005)
- * Clitheroe Royal Grammar School (2005 - 2012)
+ * University of Oxford, Keble College (2012 - 2016)
+     - MCompSci Computer Science, 1st Class
+ * Clitheroe Royal Grammar School inc. Sixth Form Centre (2005 - 2012)
      - __GCSE__ - English Literature, Maths, Chemistry, Physics, Biology, German, French (__A\*__); ICT, Geography (__A__); English Language (__B__)
      - __FSMQ__ - Additional Maths (__A__)
      - __AS__ - Maths, Further Maths, Physics, Computing, German (__A__)
      - __A2__ - Maths, Further Maths, Physics, Computing (__A\*__)
- * University of Oxford, Keble College (2012 - 2016)
-     - MCompSci Computer Science
-     - Attained 1st Class in Preliminary, Part A and Part B examinations.
 
 ## Employment and Experience
 
