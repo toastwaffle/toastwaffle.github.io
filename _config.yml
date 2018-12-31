@@ -20,5 +20,8 @@ author:
   url:               http://samuellittley.me
   email:             samuel@samuellittley.me
 
+plugins:
+  - jekyll-redirect-from
+
 # Custom vars
 version:             1.0.0
