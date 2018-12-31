@@ -22,8 +22,13 @@ title: Curriculum Vitae
 
 ## Employment and Experience
 
- * Google Ireland Ltd (18th July 2016 - )
-     - Starting as a Site Reliability Engineer (Software Engineer)
+ * Google UK Ltd (4th December 2017 - )
+     - Transfered back to the UK, continuing to work on the same products.
+     - Moved to a new team in January 2019 working on reliability of the Google
+       Cloud Platform.
+ * Google Ireland Ltd (18th July 2016 - 3rd December 2017)
+     - Site Reliability Engineering Software Engineer working on the Google
+       Search Apps for Android and iOS, and Google Play Services.
  * Semmle Ltd (29th June - 2nd October 2015)
      - Worked on a Sublime Text plugin integrating the company's core software analysis products with the text editor, and a web based interface to the company's analysis querying platform.
      - Made extensive use of Python for the Sublime Text plugin, using a single code base for both versions of Sublime Text (supporting Python 2.6 and 3.3)
@@ -62,29 +67,20 @@ title: Curriculum Vitae
 ## Programming Skills
 
  * __Python__: Proficient
+ * __Go__: Proficient
  * __HTML__: Proficient
  * __CSS__: Proficient
  * __JavaScript__: Intermediate
- * __C++__: Intermediate
  * __Java__: Intermediate
-
-## Other Skills
-
- * Git
- * Linux systems administration
- * Good teamworking and leadership skills
- * High analytical ability
- * Always willing and eager to learn
-
-References
-
- * Stephen Cameron (University Tutor): stephen.cameron &lt;at&gt; keble.ox.ac.uk
- * John Beisley (Line Manager at Google UK Ltd): huin &lt;at&gt; google.com
- * Ben Taylor (Line Manager at Fatsoma Ltd): ben.taylor &lt;at&gt; fatsoma.com
- * Andrew Holford (Line Manager at Outdoor Action Ltd): andy &lt;at&gt; outdooraction.co.uk
+ * __C++__: Basic
 
 ## Theatre Experience
 
+ * _The Seagull_, LX Op, Tower Theatre, November 2018
+ * _To Kill A Mockingbird_, Get-In, Tower Theatre, October 2018
+ * _Wolf Hall_, Get-In, Brideswell Theatre (a Tower Theatre production), July 2018
+ * _Blue/Orange_, Get-In/LX Op, Upstairs at the Gatehouse (a Tower Theatre production), July 2018
+ * _Antigone_, Get-In/Sound Op, Theatro Technis (a Tower Theatre production), June 2018
  * _TEDx Oxford 2016_, co-Technical Director/Deputy Stage Manager, New Theatre Oxford, February 2016
  * _The Three Musketeers_, Production Manager, Keble O'Reilly Theatre, November 2015
  * _Hamlet_, Production Manager, Keble O'Reilly Theatre, November 2015
