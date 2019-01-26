@@ -4,6 +4,8 @@ title: Don't Buy Me Stuff
 redirect_from: "/wishlists/"
 ---
 
+*If you were thinking of buying me a gift, please don't.*
+
 Over time I have accumulated many things I do not need or use. I'm in a very
 fortunate position: I have a stable job, and I can afford to buy the things I
 need or want myself. To that end, I politely request that people do not buy me
