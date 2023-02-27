@@ -7,48 +7,16 @@ title: Samuel Littley
 
 <h2>Who Am I?</h2>
 
-<p>I&#39;m a Site Reliability Engineer at Google, with a passion for programming and the theatre</p>
+<p>I&#39;m a Software Engineer (ex-SRE) at Google, with a passion for programming and the theatre</p>
 
 <h2>What&#39;s here?</h2>
 
 <ul>
-<li><a href="/keybase.txt">My keybase verification</a></li>
 <li><a href="/cv">My CV</a> (including contact details)</li>
-<li><a href="/dont-buy-me-stuff">Don't buy me stuff...</a></li>
 </ul>
 
 <h2>Where else am I on the web?</h2>
 
 <ul>
-<li><a href="https://keybase.io/samuellittley">samuellittley</a> on Keybase</li>
 <li><a href="https://github.com/toastwaffle">toastwaffle</a> on Github</li>
-<li><a href="https://twitter.com/SMLittley">SMLittley</a> on Twitter</li>
-<li><a href="https://www.facebook.com/samuel.littley">Samuel Littley</a> on Facebook</li>
-<li><a href="http://uk.linkedin.com/pub/samuel-littley/39/385/261">Samuel Littley</a> on LinkedIn</li>
-<li><a href="https://plus.google.com/+SamuelLittley">Samuel Littley</a> on Google+</li>
 </ul>
-
-<h2>Posts</h2>
-
-<ul>
-{% for post in paginator.posts %}
-<li><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})</li>
-{% endfor %}
-</ul>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
