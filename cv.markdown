@@ -5,6 +5,8 @@ title: Curriculum Vitae
 
 I am an experienced Software Engineer and ex-SRE with a passion for building reliable, scalable, and maintainable software. I also have a strong interest in helping others to develop their skills by providing mentoring and training in a variety of contexts.
 
+[PDF CV](/Samuel_Littley_CV.pdf)
+
 ## Personal Details
 
  * Name: __Samuel Littley__
