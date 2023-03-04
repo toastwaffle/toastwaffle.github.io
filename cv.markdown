@@ -19,29 +19,30 @@ I am an experienced Software Engineer and ex-SRE with a passion for building rel
 ### Google (July 2016 to present, Dublin and London)
 
  * Senior Software Engineer, Google for Clinicians (G4C) Data Platform Onboarding (April 2022 to present)
-     - I built a replacement UI (using an internal framework) to manage sources of Change Data Capture (CDC) data used by the G4C pipelines. I also researched and developed capabilities for ingesting data via standardised APIs instead of CDC, including managing a relationship with a third party provider, and am currently working to build this as a productionised system.
+     - I built a replacement UI (using a Java/TypeScript internal framework) to manage sources of Change Data Capture (CDC) data used by the G4C pipelines, reducing the overhead of onboarding new partners. I also researched and developed (using Golang) capabilities for ingesting data via standardised APIs instead of CDC, including managing a relationship with a third party provider.
  * Senior Software Engineer, Ads Frontend SRE (June 2020 to April 2022)
-     - I led the frontend and backend implementation of "the one dashboard to rule them all" providing an overview of system health and hygiene across Ads, Commerce, and Payments, based on associating data points with a knowledge graph and performing templated aggregation operations across the structure of the graph to support a variety of visualisations. I was also an active member of the oncall rotation for the Google Ads frontends used by advertisers and publishers.
+     - I led the frontend and backend implementation (Golang, Angular, Typescript) of "the one dashboard to rule them all" providing an overview of system health and hygiene across Ads, Commerce, and Payments, based on associating data points with a knowledge graph and performing templated aggregation operations across the structure of the graph to support a variety of visualisations. This was used to drive efforts to improve ACP systems and reduce incidents. I was also an active member of the oncall rotation for the Google Ads frontends used by advertisers and publishers.
  * Senior Software Engineer, Reliability Analysis (SRE, January 2019 to June 2020)
-     - I worked on an agile software development team embedded within SRE to build tooling for analysing reliability indicators, and determining correlation between automated indicators (such as SLIs) and human-labelled incidents. As a team, we also built tooling for calculating a severity for an incident, based on known features of the incident's impact. While on this team, I was also an active member of the oncall rotation for a system used to probe the health of GCP services from Kubernetes clusters running on both GCP and AWS.
+     - I worked on an agile software development team embedded within SRE to build tooling for analysing reliability indicators (Golang, Angular, Typescript), and determining correlation between automated indicators (such as SLIs) and human-labelled incidents. This was used to pinpoint areas where monitoring needed improvement. As a team, we also built tooling for calculating a severity for an incident based on known features of the incident's impact, to improve consistency of responses and external communications. While on this team, I was also an active member of the oncall rotation for a system used to probe the health of GCP services from Kubernetes clusters running on both GCP and AWS.
  * Software Engineer, Mobile Infrastructure SRE (July 2016 to January 2019)
-     - I was the service owner/lead for SRE's relationship with the Android Google Search App, and led the introduction of various process improvements to improve the safety and reliability of feature changes through binary releases and flag-controlled experiments. I also drove the development of a simple script for evaluating release metrics into a managed service now used across the company for evaluating mobile app releases.
+     - I was the service owner/lead for SRE's relationship with the Android Google Search App, and led the introduction of various process improvements to improve the safety and reliability of feature changes through binary releases and flag-controlled experiments. I also drove the development of a simple script for evaluating release metrics into a managed service (Golang) used across the company for evaluating mobile app releases.
  * Community contributions (throughout)
      - I support the Software Engineering apprenticeships program in London, currently providing Computer Science education, and previously acting as a cohort coordinator. I am also an active TypeScript readability reviewer, a makerspace coordinator, and a facilitator of code retreat and legacy code retreat classes.
+
+## Performance Feedback
+
+ * Jan 2023: "Samuel is highly productive and can be relied upon to fix issues or quickly develop new features. [He] is a very dependable team mate, helping others and delivering quickly on his commitments. [He] is keen to ensure that everyone feels included and will speak plainly if he observes non-inclusive behavior."
+ * Mar 2022: "Samuel is consistently delivering work that makes a difference, both to his main projects such as Hydrogen, and Google as a whole through his work with the Makerspaces and the SWE Apprenticeships. He is a leader on his team and manages relationships across Google on behalf of Hydrogen."
+ * Sep 2021: "Samuel is an excellent educator and mentor, and consistently finds opportunities to lead others and advocates for his colleagues to do the same. This is demonstrated by his work with apprentices, his support for interns hosted by his team, and his hosting of team training and lightning talk sessions. Imparting knowledge and training is a key part of leadership, and it is something Samuel does very well."
 
 ### Previous roles
 
  * Semmle Ltd (29th June - 2nd October 2015)
-     - Worked on a Sublime Text plugin integrating the company's core software analysis products with the text editor, and a web based interface to the company's analysis querying platform.
-     - Made extensive use of Python for the Sublime Text plugin, using a single code base for both versions of Sublime Text (supporting Python 2.6 and 3.3)
-     - Used Java for the query web interface project.
+     - I built a Sublime Text plugin to integrate Semmle's core software analysis products with the text editor, using a common codebase that ran under both Python 2.6 and Python 3.3 (for Sublime Text versions 2 and 3). I also prototyped a web-based interface to Semmle's analysis querying platform on GCP (using Java).
  * Google UK Ltd (internship, 6th July - 3rd October 2014)
-     - Worked on a project automating analysis of historical production date to determine relationships between demand and resources used, to aid with future capacity planning.
-     - Made extensive use of Python, using pandas for data manipulation and statistical analysis
+     - I worked on a project using Python and pandas automating analysis of historical production date to determine relationships between demand and resources used, to aid with future capacity planning.
  * Fatsoma Ltd (June - September 2013, July - September 2012)
-     - Developed and managed multiple Wordpress multisite networks, with multiple custom plugins for system management and interaction with other services such as Facebook, Twitter and the Fatsoma ticketing system.
-     - Development of Wordpress themes from provided graphical designs.
-     - Some server administration and feature development.
+     - I developed and managed multiple Wordpress multisite networks, with multiple custom plugins for system management and interaction with other services such as Facebook, Twitter and the Fatsoma ticketing system. I also developed Wordpress themes from provided graphical designs, and did some some server administration and feature development.
 
 ## Education and Qualifications
 
