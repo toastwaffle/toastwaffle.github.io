@@ -16,7 +16,7 @@ I am an experienced Software Engineer and ex-SRE with a passion for building rel
 
 ## Employment and Experience
 
-### Google (July 2016 to present, Dublin and London)
+### Google (18 July 2016 to 28 July 2023, Dublin and London)
 
  * Senior Software Engineer, Google for Clinicians (G4C) Data Platform Onboarding (April 2022 to present)
      - I built a replacement UI (using a Java/TypeScript internal framework) to manage sources of Change Data Capture (CDC) data used by the G4C pipelines, reducing the overhead of onboarding new partners. I also researched and developed (using Golang) capabilities for ingesting data via standardised APIs instead of CDC, including managing a relationship with a third party provider.
