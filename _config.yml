@@ -10,8 +10,8 @@ permalink:           pretty
 title:               Samuel Littley
 tagline:             'Passionate about programming and theatre'
 description:         'The alternative home of Samuel Littley on the Web.'
-url:                 http://samuellittley.me
-baseurl:             http://samuellittley.me/
+url:                 https://samuellittley.me
+baseurl:             https://samuellittley.me/
 paginate:            5
 
 # About/contact
